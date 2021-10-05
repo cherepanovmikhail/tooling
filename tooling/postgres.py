@@ -1,2 +1,2 @@
 def function():
-    print(__file__)
+    print("Вот так вот", __file__)
